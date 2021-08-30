@@ -1,2 +1,5 @@
-# nus-august-30
-test depository to learn github
+# This is a test repository
+## smaller change
+
+normal text 
+testing
